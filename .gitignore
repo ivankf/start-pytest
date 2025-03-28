@@ -168,3 +168,6 @@ cython_debug/
 /allure-report
 
 .DS_Store
+
+# ide
+.idea
